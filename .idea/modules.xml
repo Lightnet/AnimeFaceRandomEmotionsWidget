@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimeFaceRandomEmotionsWidget.iml" filepath="$PROJECT_DIR$/AnimeFaceRandomEmotionsWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomApp.iml" filepath="$PROJECT_DIR$/CustomApp.iml" />
+    </modules>
+  </component>
+</project>
+

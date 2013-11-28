@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="128dip"
+    android:layout_height="92dip"
+    android:layout_margin="0dip"
+    android:background="@drawable/pi_gasara_head_ear">
+
+    <TextView
+        android:id="@+id/image_eye"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:singleLine="false" />
+
+    <TextView
+        android:id="@+id/image_lip"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:singleLine="false" />
+
+
+    <TextView
+        android:id="@+id/update"
+        style="@android:style/TextAppearance.Medium"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="#000000"
+        android:layout_alignParentLeft="true">
+    </TextView>
+
+    <!--
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageButton"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" />
+    -->
+
+</RelativeLayout>
+
+<!--
+android:background="@drawable/piggy_icon_gasara_happy"
+-->
